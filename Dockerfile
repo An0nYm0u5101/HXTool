@@ -1,4 +1,4 @@
-FROM python:3.6-alpine
+FROM python:3.7.13-alpine
 LABEL maintainer="Elazar Broad <elazar.broad@fireeye.com>"
 WORKDIR /opt/hxtool
 # TODO: should be converted to a script
