@@ -3,3 +3,4 @@ requests
 pycryptodome
 tinydb>=3.15.2
 pandas
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
